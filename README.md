@@ -152,7 +152,7 @@ Using LLM train of thought to achieve complicated behavior
 - Make LLM digest its own outputs
   - To get explanations, spot errors, edit results, do follow-up tasks, etc.
 
-### Lab 2.1 A Druid's Journey
+### Lab 2.1. A Druid's Journey
 
 #### Objectives
 
@@ -166,7 +166,7 @@ Play the **修行的德魯伊(A Druid's Journey, 2023)** game
 - Your final game states and output files
 - (Lab 2.1 constitutes ~20% of the labs.)
 
-### Lab 2.2 Your own game
+### Lab 2.2. Your own game
 
 #### Objectives
 
